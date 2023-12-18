@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1702426644789_1" label="Test01_GPIO" name="Test01_GPIO">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Test01-GPIO" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1697519795490_0" label="Window Working Set" name="Aggregate for window 1697519795490"/>
+<mruList name="Test01_GPIO"/>
+</workingSetManager>
